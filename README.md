@@ -1,6 +1,6 @@
 # Tetris
 
-Unity project folder
+Unity project folder.
 
 Press `A` `D` or `←` `→` to move the Tetrimino horizontally; press `S` or `↓` to accelerate it falling; press `W` or `↑` to ratate it.
 
